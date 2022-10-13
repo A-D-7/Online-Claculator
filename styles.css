@@ -1,0 +1,41 @@
+body{
+  background-color: #DFD3C3;
+  text-align: center;
+}
+h1{
+    font-size: 35px;
+    font-family: cursive;
+}
+.calc{
+  text-align: center;
+}
+table{
+  margin: auto;
+}
+input{
+    border-radius: 21px;
+    border: 5px solid #244624;
+    font-size:20px;
+    height: 60px;
+    width: 545px;
+}
+button{
+    border-radius: 40px;
+    font-size: 40px;
+    background: #3F0071;
+    width: 100px;
+    height: 90px;
+    margin: 5px;
+}
+button:hover{
+  border-radius: 0px;
+  background-color: #5CB8E4;
+  
+}
+.calci{
+    border: 4px dashed black;
+    background-color: #f7e16c;
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-block;
+}
